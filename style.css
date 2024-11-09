@@ -53,10 +53,8 @@ body {
 }
 .about-text {
   max-width: 720px;
-  margin-left: -200px;
   text-align: center;
-  align-self: flex-start;
-  width: 58%;
+  text-shadow: 0px 0px 1px black;
 }
 #img-berdyansk {
   border-radius: 15px;
